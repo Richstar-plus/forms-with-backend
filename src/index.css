@@ -17,7 +17,7 @@ body {
 
 #main-header {
   text-align: center;
-  background-color: #2e2923;
+   background: linear-gradient(to right, rgb(228, 111, 44), rgb(226, 209, 179));
   color: #d2cdc6;
   padding: 3rem;
 }
@@ -25,13 +25,14 @@ body {
 h1 {
   font-size: 3rem;
   font-family: 'Rubik', sans-serif;
-  color: #fd9217;
+  color: white;
   margin: 0 0 1rem 0;
 }
 
 #main-header p {
   max-width: 25rem;
   margin: 0 auto;
+  color: #f7f5f3;
 }
 
 main {
