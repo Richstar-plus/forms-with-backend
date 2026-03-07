@@ -1,4 +1,5 @@
 export function NewOpinion() {
+  
   return (
     <div id="new-opinion">
       <h2>Share your opinion!</h2>
