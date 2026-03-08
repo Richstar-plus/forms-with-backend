@@ -191,3 +191,15 @@ form button:hover {
   border: none;
   cursor: not-allowed;
 }
+
+form input.input-error,
+form textarea.input-error {
+  border: 1px solid red;
+}
+
+.error-text {
+  display: block;
+  color: red;
+  font-size: 0.8rem;
+  margin-top: 0.35rem;
+}
